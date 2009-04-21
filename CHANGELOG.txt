@@ -1,0 +1,13 @@
+==========================
+Django Countries Changelog
+==========================
+
+Country list
+------------
+Last updated: 2009-04-20 - 246 countries.
+Last updated: 2007-08-20 - 244 countries.
+
+US States
+---------
+Removed. Use localflavor: http://docs.djangoproject.com/en/dev/ref/contrib/localflavor/.
+
