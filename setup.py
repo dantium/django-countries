@@ -4,7 +4,7 @@ setup(
     name='django-coutries',
     version='0.1.3',
     description='Provides fixtures and models for a "complete" list of world countries',
-    author='Fredrik Sjöblom',
+    author='Fredrik Sjoblom',
     url='http://code.google.com/p/django-countries/',
     packages=find_packages(),
     classifiers=[
